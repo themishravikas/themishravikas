@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/vikasmishra15/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/thevikasmishra" target="_blank">
+  <a href="https://instagram.com/thevikasmishra_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/vikas_mis_15" target="_blank">
