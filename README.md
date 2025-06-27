@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **SBTE Government Site Clone**
+- 🔭 I’m currently working on **SBTE Government Site**
 - 🌱 I’m learning **Angular, React, DSA, Microservices**
 - 👨‍💻 All my projects are available at: [github.com/themishravikas](https://github.com/themishravikas)
 - 💬 Ask me about: **Spring Boot, REST APIs, HTML, CSS, JS**
