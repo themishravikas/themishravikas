@@ -16,7 +16,7 @@
 - 👨‍💻 All my projects are available at: [github.com/themishravikas](https://github.com/themishravikas)
 - 💬 Ask me about: **Spring Boot, REST APIs, HTML, CSS, JS**
 - 📫 Reach me at: **thevikasmishra15@gmail.com**
-- ⚡ Fun fact: *People think I am rude, but I’m just blunt 😄*
+- ⚡ Fun fact: *I’m not rude, just refreshingly honest. 😄*
 
 ---
 
